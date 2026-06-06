@@ -24,6 +24,7 @@
 #include <stdio.h>
 
 int test_printf(void);
+int test_printf2(void);
 
 
 #endif /* __TEST_H__ */
