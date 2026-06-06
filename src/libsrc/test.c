@@ -36,6 +36,12 @@ int test_printf5(void)
 {
     printf("Hello, World5!\n");
     printf("Hello, World6!\n");
-    printf("Hello, World7!\n");
+    printf("Hello, World9!\n");
+    return 0;
+}
+
+int test_printf6(void)
+{
+    printf("Hello, World6!\n");
     return 0;
 }
