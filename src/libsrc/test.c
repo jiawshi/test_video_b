@@ -7,6 +7,7 @@ int test_printf(void)
     printf("Hello, World3!\n");
     printf("Hello, World4!\n");
     printf("Hello, World5!\n");
+    printf("Hello, World6!\n");
     return 0;
 }
 
