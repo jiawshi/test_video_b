@@ -26,5 +26,6 @@
 int test_printf(void);
 int test_printf2(void);
 int test_printf3(void);
-
+int test_printf4(void);
+int test_printf5(void);
 #endif /* __TEST_H__ */
