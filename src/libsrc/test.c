@@ -14,7 +14,7 @@ int test_printf(void)
     printf("Hello, World!\n");
     printf("Hello, World!\n");
     printf("Hello, World!\n");
-    printf("Hello, World!11122222\n");
+    printf("Hello, World!1112222234346666666\n");
     return 0;
 }
 
